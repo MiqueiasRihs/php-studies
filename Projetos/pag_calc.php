@@ -18,7 +18,6 @@
             <option>Divisão</option>
         </select>
         <br> <input type="submit" value="Calcular"> <br>
-        <br> <label type="text" value="<?php echo $total; ?>">
         
     </form>
 </body>
